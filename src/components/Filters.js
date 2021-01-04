@@ -130,7 +130,7 @@ const Filters = props => {
             <Card className={props.classes.root} style={{margin: 0}}>
                 <CardContent>
                     <Typography className={props.classes.title} color="textSecondary" gutterBottom>
-                        Filters (Because API limitations you must choose only one filter at the time)
+                        Filters (Due to API restrictions, you can only select one filter at a time)
                     </Typography>
                     <Grid container spacing={4}>
                         <Grid item xs={12} md={6} lg={3}>
