@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Acumin;
+  src: url("/fonts/acuminprowide-regular.otf");
+  font-weight: regular;
+}
+
+@font-face {
+  font-family: Acumin;
+  src: url("/fonts/acuminprowide-bold.otf");
+  font-weight: bold;
+}
